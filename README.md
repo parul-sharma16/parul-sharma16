@@ -12,6 +12,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" **alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" title="Vite" **alt="Vite" width="40" height="40"/>&nbsp;
   </div>  
 
 ---
