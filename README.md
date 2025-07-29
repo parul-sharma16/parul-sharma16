@@ -19,10 +19,9 @@
 ---
 ### 👩‍💻 About Me :
 Student at Army Institute of Technology, Pune, India
-- Currently pursuing a BE degree in `Computer Engineering`
-- I am `passionate about software development` and have a strong inclination towards `web development`.
-- Other than web development, I also like to solve problems on `codeforces`.
-- Connect with me <br>
+- Currently pursuing a BE degree in `Computer Engineering`.
+- I have a strong inclination towards `web development` and a keen interest in `competetive programming`.
+- Connect with me <br> <br>
    <a href="https://www.linkedin.com/in/-parul-sharma/">
   <img src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
