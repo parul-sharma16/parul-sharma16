@@ -28,9 +28,12 @@ Student at Army Institute of Technology, Pune, India
 
 ---
 ### 📊 My Stats :
+![LeetCode Stats](https://leetcard.jacoblin.cool/p_sh16?theme=dark&font=Bodoni%20Moda&ext=heatmap)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parul-sharma16&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parul-sharma16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
