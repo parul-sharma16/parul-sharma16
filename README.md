@@ -32,6 +32,8 @@ Student at Army Institute of Technology, Pune, India
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parul-sharma16&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![Parul's GitHub stats](https://github-readme-stats.vercel.app/api?username=parul-sharma16&show_icons=true&theme=algolia)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parul-sharma16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
