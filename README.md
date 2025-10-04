@@ -36,6 +36,8 @@ Student at Army Institute of Technology, Pune, India
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parul-sharma16&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![An image of @parulsharma16's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parulsharma16)](https://holopin.io/@parulsharma16)
+
 
 
 <!--
